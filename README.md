@@ -1,4 +1,4 @@
-PhamaciesAtService
+﻿PhamaciesAtService
 ==================
 
-Farmácias de Serviço da Sapo - Q-Better
+Farmácias de Serviço da Sapo
